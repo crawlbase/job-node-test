@@ -1,0 +1,15 @@
+{
+  "name": "job-node-test",
+  "version": "1.0.0",
+  "description": "proxycrawl.com node job test",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:proxycrawl/job-node-test.git"
+  },
+  "author": "ProxyCrawl",
+  "license": "ISC"
+}
